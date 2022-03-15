@@ -1,9 +1,9 @@
 [package]
-name = "eframe_template"
+name = "stream_pomodoro"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
+authors = ["Michele Bianchi <jazzinghen@gmail.com>"]
 edition = "2021"
-rust-version = "1.56"
+rust-version = "1.59"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
